@@ -1,0 +1,13 @@
+.mapSizing{
+    position: absolute;
+    height: 100%;
+    width:100%;
+    left: 300px;
+}
+
+.mapContainer {
+    height: 550px;
+    width: 800px;
+    position: absolute;
+  
+}

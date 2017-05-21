@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.map-gic {
+  height: 300px;
+  width: 100%;
+}
+
+html,
+body,
+.GMap {
+  height: 100%;
+  position: absolute;
+  width: 100%;
+}
+.GMap-canvas {
+  top: 20px;
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.UpdatedText {
+  color: red;
+}
