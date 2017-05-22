@@ -8,7 +8,7 @@ export default class MapWrapper extends React.Component {
     constructor() {
         super();
         this.state = {
-            location: {lat: -25.363, lng: 131.044},
+            location: {lat: 64.2008, lng: 149.4937},
             loaded: true,
             rendered: false,
             map: {}

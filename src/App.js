@@ -1,5 +1,3 @@
-//Written by the coolest dude in town, Jack Bischoff
-//hmu on jackbischoff.com
 import React from 'react';
 import './App.css';
 import ContentWrapper from './components/ContentWrapper';
